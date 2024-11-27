@@ -15,7 +15,7 @@
     "deploydev": "./node_modules/.bin/netlify deploy --dir public"
   },
   "dependencies": {
-    "gatsby": "^2.13.20",
+    "gatsby": "^4.25.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
